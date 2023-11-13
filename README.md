@@ -8,7 +8,7 @@
 - [Classes](#Classes)
 
 
-## Data-Structres
+## Data Structres
 Using Lists as Stacks and Queues:
 
 Stacks: Lists can be used as stacks using the append() method to push elements onto the stack and pop() method to remove the last element.
@@ -42,7 +42,7 @@ Sequences like lists and tuples can be compared element-wise.
 Different data types may have specific comparison rules based on their nature.
 These concepts are fundamental to working with data structures, loops, and comparisons in Python programming.
 
-## Python_Lists
+## Python Lists
 Certainly! Here's a brief overview of various operations related to lists in Python:
 
 ### Creating a List:
